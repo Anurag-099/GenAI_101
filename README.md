@@ -5,6 +5,9 @@ Welcome to the **Space Fun Facts Generator** — a fun and interactive web app t
 ## 🚀 Project Overview
 This lightweight app is built using only **HTML**, **CSS**, and **JavaScript** in a single file. With just a button click, you can uncover fascinating facts about planets, stars, galaxies, black holes, and more — all wrapped in a clean, cosmic-themed UI.
 
+## ✨Live Demo
+You can view a sample app hosted on GitHub Pages here: https://anurag-099.github.io/GenAI_101/
+
 ## 🌠 Features
 - **Cosmic Fact Generator**: Displays random, intriguing facts about space and astronomy.
 - **Single-File Simplicity**: All code (HTML, CSS, JS) lives in one `index.html` file.
